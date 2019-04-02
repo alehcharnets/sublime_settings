@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Anaconda",
+		"AngularJS",
+		"AutoFileName",
+		"Bootstrap 3 Autocomplete",
+		"Bootstrap 3 Snippets",
+		"Bootstrap 4 Autocomplete",
+		"Bootstrap 4 Snippets",
+		"Color Highlight",
+		"CSS3",
+		"Djaneiro",
+		"Django",
+		"Emmet",
+		"Gist",
+		"jQuery",
+		"One Dark Color Scheme",
+		"One Dark Material - Theme",
+		"Package Control",
+		"Python 3",
+		"Sass",
+		"SublimeREPL",
+		"TrailingSpaces",
+		"Trimmer",
+		"Whitespace"
+	]
+}
